@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com:jayong1993/hubot-mattermost-attachment.git"
+    "url": "git://github.com/jayong1993/hubot-mattermost-attachment.git"
   },
   "bug": {
-    "url": "https://github.com:jayong1993/hubot-mattermost-attachment/issues"
+    "url": "https://github.com/jayong1993/hubot-mattermost-attachment/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6"
@@ -25,9 +25,9 @@
     "node": "*"
   },
   "bugs": {
-    "url": "https://github.com:jayong1993/hubot-mattermost-attachment/issues"
+    "url": "https://github.com/jayong1993/hubot-mattermost-attachment/issues"
   },
-  "homepage": "https://github.com:jayong1993/hubot-mattermost-attachment",
+  "homepage": "https://github.com/jayong1993/hubot-mattermost-attachment",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
