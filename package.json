@@ -1,5 +1,5 @@
 {
-  "name": "hubot-mattermmost-attachment-sis",
+  "name": "hubot-mattermost-attachment",
   "description": "Re-enable `mattermmost-attachment` event for hubot-mattermmost",
   "version": "1.0.3",
   "author": "someone",
